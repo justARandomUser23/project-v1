@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Desktop3 from "./pages/desktop3";
+import Desktop2 from "./pages/desktop2";
+import Desktop1 from "./pages/desktop1";
+import InterMediate from "./pages/InterMediate";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Desktop1 />
+      <Desktop2 />
+      <InterMediate />
+      <Desktop3 />
     </div>
   );
 }
