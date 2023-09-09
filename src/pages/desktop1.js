@@ -5,7 +5,7 @@ const Desktop1 = () => {
   return (
     <div className="relative bg-white w-full h-full overflow-hidden text-center text-9xl text-white font-fugaz-one">
       <img
-        className="w-24 h-24 object-cover"
+        className="sm:w-24 w-20 sm:h-24 h-20 object-cover"
         alt="logo"
         src="/img-3541-1-1@2x.png"
       />
@@ -18,14 +18,14 @@ const Desktop1 = () => {
             <FormContainer1 />
           </div>
           <div className="w-full max-w-sm lg:max-w-5xl text-left">
-            <p>
+            <p className="px-2">
               Who this isn't for? Hey, we've all got to start somewhere, right?
               But if you're a business owner still figuring things out or
               haven't quite got the ball rolling with a consistent MRR & don’t
               have the disposable income to invest, we might just be a few steps
               further down the path.
             </p>
-            <p>
+            <p className="px-2">
               No hard feelings - if you reach out, we’d still be more than happy
               to connect you with an agency in our network more suited to where
               you’re at. We just want to make sure everyone gets the right fit!

@@ -1,19 +1,19 @@
 const ScrollingCard = () => {
   return (
     <section className="text-center text-darkslategray-100 font-open-sans">
-      <div className="flex flex-col items-center mt-8">
+      <div className="flex flex-col items-center justify-center mt-6">
         <img
           className="w-[104px] h-[103px] object-cover"
           alt=""
           src="/weddwdwepng@2x.png"
         />
-        <h2 className="text-center text-13xl font-bold">
+        <div className="text-center text-13xl font-bold pt-5 pb-3">
           Still scrolling? Really? Wow.
-        </h2>
-        <h2 className="text-xl md:text-6xl max-w-screen-md text-inherit leading-[45.71px] font-normal font-inherit">
+        </div>
+        <div className="px-2 pb-1 text-9xl max-w-screen-md leading-[45.71px] font-normal">
           Welcome to the bottom of the page. You’re either thorough or very
           contemplative - maybe both?
-        </h2>
+        </div>
       </div>
       <div className="p-4 text-lg text-left">
         <div className="my-4">

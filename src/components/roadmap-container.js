@@ -28,12 +28,11 @@ const RoadmapContainer = () => {
                 </h3>
               </div>
               <div className="relative text-left text-lg text-darkslategray-200 font-open-sans">
-                <div class="h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
+                <div class="h-[280px] sm:h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
                   <p className="m-1">
                     We kick things off by really getting to know you. What makes
                     your business tick? What are your dreams? Your challenges?
                   </p>
-                  <p className="m-0">&nbsp;</p>
                   <p>The better we understand, the better we can serve you.</p>
                 </div>
               </div>
@@ -50,7 +49,7 @@ const RoadmapContainer = () => {
                 </h3>
               </div>
               <div className="relative text-left text-lg text-darkslategray-200 font-open-sans">
-                <div class="h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
+                <div class="h-[280px] sm:h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
                   <p className="m-1">
                     This isn't our first rodeo. Using insights from our deep
                     dive and industry experience, we craft a unique strategy
@@ -75,7 +74,7 @@ const RoadmapContainer = () => {
                 </h3>
               </div>
               <div className="relative text-left text-lg text-darkslategray-200 font-open-sans">
-                <div class="h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
+                <div class="h-[280px] sm:h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
                   <p className="m-1">
                     With a game plan in hand, our team rolls up their sleeves.
                   </p>
@@ -98,7 +97,7 @@ const RoadmapContainer = () => {
                 </h3>
               </div>
               <div className="relative text-left text-lg text-darkslategray-200 font-open-sans">
-                <div class="h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
+                <div class="h-[300px] sm:h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
                   <p className="m-1">
                     We're always watching, always learning. Each month, we
                     analyze the results,
@@ -122,7 +121,7 @@ const RoadmapContainer = () => {
                 </h3>
               </div>
               <div className="relative text-left text-lg text-darkslategray-200 font-open-sans">
-                <div class="h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
+                <div class="h-[300px] sm:h-[265px] bg-gainsboro shadow-[0px_2px_5px_2px_rgba(0,_0,_0,_0.4)] my-1 relative leading-[25.71px] flex-col p-[15px] box-border items-start justify-start">
                   <p className="m-1">
                     Hitting 50 appointments? That's just the start. Together,
                     we'll keep pushing, keep evolving, and keep aiming higher.

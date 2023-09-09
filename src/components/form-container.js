@@ -2,12 +2,12 @@ const FormContainer = () => {
   return (
     <section className="relative text-center text-black font-open-sans">
       <div className="flex justify-center items-center">
-        <div className="my-2 sm:mx-2 mx-4 rounded-3xs bg-firebrick-300 text-center text-white py-2 px-2 sm:px-12 sm:text-5xl text-2xl relative uppercase inline-block font-semibold">
+        <div className="my-2 mx-3 rounded-3xs bg-firebrick-300 text-center text-white py-2 px-1 sm:px-12 sm:text-5xl text-lgi uppercase inline-block font-bold leading-tight sm:leading-normal">
           Business Owners & Brands Above $30k Per Month
         </div>
       </div>
-      <div className="text-2xl sm:text-22xl font-fugaz-one flex justify-center">
-        <h1 className="text-inherit font-normal sm:max-w-[983px]">
+      <div className="text-13xl sm:text-22xl font-fugaz-one flex justify-center">
+        <h1 className="text-inherit font-normal sm:max-w-[983px] leading-tight sm:leading-normal px-4">
           ADD 50 APPOINTMENTS PER MONTH IN THE NEXT 90 DAYS & WIN BACK YOUR TIME
         </h1>
       </div>
