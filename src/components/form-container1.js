@@ -1,12 +1,12 @@
 const FormContainer1 = () => {
   return (
-    <div className="w-full max-w-sm lg:max-w-2xl text-left text-base sm:text-lg lg:text-xl text-darkslategray-100 font-open-sans px-1">
+    <div className="w-full lg:max-w-2xl text-left text-base sm:text-lg lg:text-xl text-darkslategray-100 font-open-sans px-1">
       <h1 className="text-[32px] sm:text-23xl leading-none font-normal font-fugaz-one text-gray-100">
         WHO IS THIS FOR?
         <div className="h-3 bg-firebrick-100 w-2/12 sm:w-1/12" />
       </h1>
       <div className="w-full mt-6 flex flex-col items-start justify-start">
-        <div className="leading-normal px-2">
+        <div className="leading-normal px-3">
           We work with businesses that consistently achieve and exceed the
           benchmark of AT LEAST $30k per month. Whether you're in e-commerce,
           tech, services, or any other sector, our expertise is tailored to

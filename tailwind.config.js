@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors: {
         firebrick: {
-          100: "#B12322",
+          100: "#C22825",
           200: "#c52625",
           300: "#CF2826",
         },

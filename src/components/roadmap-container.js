@@ -4,14 +4,14 @@ const RoadmapContainer = () => {
       <section class="z-50 text-center text-black font-fugaz-one">
         <div class="py-2 px-4 mx-auto max-w-screen-xl lg:px-6">
           <div class="flex flex-col justify-center items-center my-8">
-            <div class="w-full text-9xl sm:text-23xl uppercase flex flex-col items-center max-w-[983px] leading-tight sm:leading-normal relative pb-1 text-left">
+            <div class="w-full text-9xl sm:text-23xl uppercase flex flex-col items-center max-w-[983px] leading-tight sm:leading-normal relative pb-1 text-center">
               Our Roadmap to 50 Appointments a Month (and Beyond)
-              <span class="absolute left-0 right-0 bottom-0 h-[6px] bg-firebrick-300 w-6/12 sm:w-4/12"></span>
+              <span class="absolute left-1/2 transform -translate-x-1/2 bottom-0 h-[6px] bg-firebrick-300 w-1/2 md:w-8/12 lg:w-4/12"></span>
             </div>
 
-            <div className="text-2xl sm:text-6xl uppercase text-left max-w-4xl z-10 py-2 px-2 sm:py-8">
+            <div className="text-2xl sm:text-6xl uppercase text-center max-w-4xl z-10 pt-6 py-2 px-2 mt-0 sm:mt-4">
               So, you're here and you mean business! We get it, and we're stoked
-              to be part of your journey. Here's a sneak peek into our secret
+              to be part of your journey. Here's a sneak peek into our secret 
               sauce:
             </div>
           </div>
@@ -137,7 +137,7 @@ const RoadmapContainer = () => {
         </div>
       </section>
       <div className="flex justify-center items-center my-8">
-        <button className="cursor-pointer border-none pt-[9px] px-[25px] pb-[10.279998779296875px] bg-firebrick-100 rounded-41xl hover:transform hover:-translate-y-2 hover:bg-firebrick-200 transition duration-300 ease-in-out">
+        <button className="cursor-pointer border-none pt-[9px] px-[25px] pb-[10.279998779296875px] bg-firebrick-100 rounded-41xl hover:transform hover:-translate-y-2 hover:bg-firebrick-300 transition duration-300 ease-in-out">
           <a
             className="relative text-5xl text-decoration:underline leading-[34.29px] uppercase font-fugaz-one text-white text-center"
             href="https://calendly.com/iclientcare/30min"
